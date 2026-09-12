@@ -58,7 +58,7 @@ Prompty helps manage and insert prompts across the web while keeping workflows s
 
 ## Fun / experiments
 
-### [NeonKiez](https://github.com/DickHorner/NeonKiez)
+### [NeonKiez](https://github.com/DickHorner/NeonKiez-full)
 ![Game](https://img.shields.io/badge/Game-Retro_Inspired-ff69b4)
 ![Creative](https://img.shields.io/badge/Mode-Creative-yellow)
 ![Vibe](https://img.shields.io/badge/Vibe-Neon_Arcade-9cf)
